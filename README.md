@@ -27,5 +27,4 @@ Mindset    : Learn something new every day.
 ---
 
 ## 🐍 My Contribution Snake
-
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/TanmayX0/TanmayX0/output/github-contribution-grid-snake-dark.svg)
