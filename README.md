@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TanmayX0/TanmayX0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🔷 TANMAYX0
 
-Here are some ideas to get you started:
+### `> Building. Learning. Evolving._`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Engineering+Student;Learning+C+Programming;Exploring+Python;Future+Software+Developer;Turning+Ideas+Into+Code" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/TanmayX0?style=for-the-badge&logo=github&label=Followers&color=0078FF)](https://github.com/TanmayX0)
+[![GitHub Stars](https://img.shields.io/github/stars/TanmayX0?style=for-the-badge&logo=github&label=Stars&color=0078FF)](https://github.com/TanmayX0)
+
+</div>
+
+---
+
+## ⚡ About Me
+
+```text
+Name       : Tanmay
+Username   : TanmayX0
+Role       : Engineering Student
+Currently  : Learning C & Python Basics
+Interests  : Programming, Technology & Building Projects
+Mindset    : Learn something new every day.
